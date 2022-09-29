@@ -1,0 +1,86 @@
+table {
+    border-collapse: collapse;
+    height: 150px;
+    width: 300px;
+    margin: auto;
+}
+td {
+    border-style: solid;
+    border-color: black;
+    border-width:  1px;
+    
+}
+#center{
+    text-align: center;
+
+}
+div {
+    text-align: center;
+}
+
+#tamanholetras {
+    font-size: 40px;
+}
+
+#voltaraotopo {
+    font-size: 35px;
+    margin-top: 700px;
+}
+
+table th, table td {
+border: 1px solid black; 
+}
+
+#indicegeral{
+position: relative;
+margin:auto; /* Centraliza sua tabela */
+
+}
+
+#colortitle{
+background-color: #000000;
+color:white;
+
+}
+
+body{
+background-image: url(../img/fundo.png);
+background-repeat: no-repeat;
+background-position: top;
+}
+
+/*Box text */
+
+#texto6 {
+    position: absolute;
+    text-align: center;
+    font-size: 15px;
+    top:1090px;
+    left:850px;
+    color:rgb(43, 39, 39);
+    margin-top: -36px;
+
+}
+
+footer {
+    margin: auto;
+    margin-top: -50px;;
+    font-size: 30px;
+    bottom: 0;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    width: 1050px;
+    height: 50px;
+    border: #000000;   
+    text-align: center;
+    line-height: 100px;
+    border: 5px solid rgb(0, 0, 0);
+}
+
+#copy {
+    text-align: center;
+    margin-top: 120px;
+    font-size: 30px;
+}
+
+
